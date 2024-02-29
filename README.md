@@ -2,6 +2,13 @@
  📌 Desafio feito pela [EDUC360](https://www.linkedin.com/company/educ360°/) e proposto pelo professor: [Denilson Elias](https://www.linkedin.com/in/denilsonbitit/)
 
 O objetivo deste exercício é criar uma lista de tarefas. Através de um menu infinito, colocaremos opções como adicionar nova tarefa, remover tarefa, visualizar tarefas e, por fim, listar as tarefas existentes em ordem cronológica e alfabética.
+
+## **📍 IMPORTANTE 📍**
+Todos os conteúdos do projeto está localizado na pasta do projeto ListaDeTarefa:
+Além disso, possuímos um arquivo **.JAR**, chamado **lista.jar**, que pode ser executado no **CMD** ou **terminal** do seu sistema operacional. Todo o nosso projeto está localizado na pasta **src/br/com/educ_aula/**:
+<div align="center">
+<img src="https://github.com/EzauLira/projeto.lista.de.tarefa/assets/149651629/41a9dee4-49e2-4532-becb-35824562a63a" height="400" />
+</div>
  
  ## 📝👨‍💻 Como foi criado:
 Criei um processo com alguns passos simples em Java que realiza as seguintes operações:
